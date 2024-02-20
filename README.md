@@ -8,3 +8,6 @@ I would like to add here:
 - exceptions handling. So, I just added common exception;
 - links to the appSettings instead const;
 - create httpClient methods as a Generic; 
+
+![image](https://github.com/yaroslav-lysenko-axon/DeveloperCodingTest/assets/88324041/2f80e48c-f8e4-4118-ab3d-5bb94a720855)
+
