@@ -1,0 +1,12 @@
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/bin/Debug/net8.0/CodingTest.Domain.deps.json
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/bin/Debug/net8.0/CodingTest.Domain.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/bin/Debug/net8.0/CodingTest.Domain.pdb
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.csproj.AssemblyReference.cache
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.AssemblyInfoInputs.cache
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.AssemblyInfo.cs
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.csproj.CoreCompileInputs.cache
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/refint/CodingTest.Domain.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.pdb
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/ref/CodingTest.Domain.dll

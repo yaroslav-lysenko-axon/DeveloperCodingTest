@@ -1,0 +1,15 @@
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/bin/Debug/net8.0/CodingTest.Application.deps.json
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/bin/Debug/net8.0/CodingTest.Application.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/bin/Debug/net8.0/CodingTest.Application.pdb
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/bin/Debug/net8.0/CodingTest.Domain.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/bin/Debug/net8.0/CodingTest.Domain.pdb
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.csproj.AssemblyReference.cache
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.AssemblyInfoInputs.cache
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.AssemblyInfo.cs
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.csproj.CoreCompileInputs.cache
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.csproj.CopyComplete
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/refint/CodingTest.Application.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.pdb
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/ref/CodingTest.Application.dll
