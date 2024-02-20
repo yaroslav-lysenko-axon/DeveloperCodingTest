@@ -23,9 +23,12 @@ public class HackerNewsService(
        var tasks = ids.Select(GetBestStory);
        var bestStories = await Task.WhenAll(tasks);
 
+       // return orderedStories;
+
         var bestStoriesDto = mapper.Map<List<HackerNewsDto>>(bestStories);
-        
-        return bestStoriesDto.OrderByDescending(hackerNews => hackerNews.Score).ToList();
+        var orderedStories = bestStoriesDto.OrderByDescending(hackerNews => hackerNews.Score).ToList();
+
+        return orderedStories;
     }
     
     private async Task<HashSet<long>?> GetBestStoriesIds()

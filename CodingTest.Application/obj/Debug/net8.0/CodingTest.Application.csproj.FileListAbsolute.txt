@@ -13,3 +13,4 @@
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/refint/CodingTest.Application.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.pdb
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/ref/CodingTest.Application.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Application/obj/Debug/net8.0/CodingTest.Application.sourcelink.json

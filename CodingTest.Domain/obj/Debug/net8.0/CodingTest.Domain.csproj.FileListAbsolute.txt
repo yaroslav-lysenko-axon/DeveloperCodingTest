@@ -10,3 +10,4 @@
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/refint/CodingTest.Domain.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.pdb
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/ref/CodingTest.Domain.dll
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Domain/obj/Debug/net8.0/CodingTest.Domain.sourcelink.json
