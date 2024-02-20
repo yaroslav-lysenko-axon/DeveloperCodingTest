@@ -7,6 +7,10 @@
         <RootNamespace>CoddingTest.Domain</RootNamespace>
     </PropertyGroup>
 
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+        <NoWarn>8618;</NoWarn>
+    </PropertyGroup>
+
     <ItemGroup>
       <PackageReference Include="AutoMapper" Version="13.0.1" />
       <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />

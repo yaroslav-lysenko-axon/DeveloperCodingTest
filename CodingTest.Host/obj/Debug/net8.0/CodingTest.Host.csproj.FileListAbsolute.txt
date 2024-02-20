@@ -33,10 +33,10 @@
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.AssemblyInfoInputs.cache
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.AssemblyInfo.cs
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.csproj.CoreCompileInputs.cache
+/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.sourcelink.json
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.csproj.CopyComplete
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/refint/CodingTest.Host.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.pdb
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.genruntimeconfig.cache
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/ref/CodingTest.Host.dll
-/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/obj/Debug/net8.0/CodingTest.Host.sourcelink.json

@@ -13,9 +13,10 @@ public class HackerNewsService(
 {
     private const string BestStoriesUrl = "https://hacker-news.firebaseio.com/v0/beststories.json";
     private const string BestStoriesById = "https://hacker-news.firebaseio.com/v0/item/";
+
     public async Task<IReadOnlyCollection<HackerNewsDto>> Get()
     {
-       var ids = await GetBestStoriesIds();
+       HashSet<long>? ids = await GetBestStoriesIds();
 
        if (ids == null || ids.Count == 0)
            return Array.Empty<HackerNewsDto>();
@@ -23,12 +24,8 @@ public class HackerNewsService(
        var tasks = ids.Select(GetBestStory);
        var bestStories = await Task.WhenAll(tasks);
 
-       // return orderedStories;
-
         var bestStoriesDto = mapper.Map<List<HackerNewsDto>>(bestStories);
-        var orderedStories = bestStoriesDto.OrderByDescending(hackerNews => hackerNews.Score).ToList();
-
-        return orderedStories;
+        return bestStoriesDto.OrderByDescending(hackerNews => hackerNews.Score).ToList();
     }
     
     private async Task<HashSet<long>?> GetBestStoriesIds()

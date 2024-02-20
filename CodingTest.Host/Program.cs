@@ -45,14 +45,6 @@ app.Run();
 void ConfigureServices(IServiceCollection services)
 {
     services.AddControllers()
-        .AddNewtonsoftJson(options =>
-        {
-            options.SerializerSettings.Converters.Add(new IsoDateTimeConverter
-            {
-                DateTimeFormat = "yyyy-MM-ddTHH:mm:ss.fffZ",
-            });
-        })
-        .AddJsonOptions(options => { options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter()); })
         .AddApplicationPart(typeof(HackerNewsController).Assembly);
 
     services.AddHttpContextAccessor();
