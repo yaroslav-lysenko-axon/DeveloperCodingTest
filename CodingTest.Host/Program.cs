@@ -1,14 +1,12 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
-using System.Text.Json.Serialization;
 using CoddingTest.Domain.Mapping;
 using CoddingTest.Domain.Services;
 using CoddingTest.Domain.Services.Abstraction;
 using CodingTest.Application.Controllers;
 using CodingTest.Application.Handlers;
 using CodingTest.Application.Mapping;
-using Newtonsoft.Json.Converters;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "axOAhxlcE58Fw3/LSoAS+Vs8JefvmgN4pEotAwdJfAleXgheEuXlnqCLzoUuDYe77MuakSisjMoeFNBQtxlAZw==",
+  "dgSpecHash": "T400lmBHL/KgLk/cTM6z90+aXRcsrVycP07iz+wVyOx5xo7/rlmqg0kL3uFdU99DAM7bU8yC8shHtUI7Arrm9w==",
   "success": true,
   "projectFilePath": "/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/CodingTest.Host.csproj",
   "expectedPackageFiles": [
@@ -60,8 +60,8 @@
     "/home/user/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
-    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.9.0.0-preview.1.24080.9.nupkg.sha512",
-    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.extensions.dependencymodel/2.1.0/microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.extensions.diagnostics/8.0.0/microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",

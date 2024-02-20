@@ -14,8 +14,6 @@
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Microsoft.DotNet.PlatformAbstractions.dll
-/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
-/home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /home/user/Documents/Files/TestProjects/DeveloperCodingTest/CodingTest.Host/bin/Debug/net8.0/Newtonsoft.Json.dll
