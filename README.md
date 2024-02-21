@@ -1,5 +1,5 @@
 To run this project locally, you need:
-1. Fetch it by https (https://github.com/yaroslav-lysenko-axon/DeveloperCodingTest.git) or ssh (git@github.com:yaroslav-lysenko-axon/DeveloperCodingTest.git) and open in your IDE via "Get from Version Control" menu;
+1. Clone using the web URL (https://github.com/yaroslav-lysenko-axon/DeveloperCodingTest.git) or use a password-protected SSH key (git@github.com:yaroslav-lysenko-axon/DeveloperCodingTest.git) and open in your IDE via "Get from Version Control" menu;
 2. Press button "Run" in IDE;
 3. Go by this link "http://localhost:5001/swagger/index.html" to Browser (to use Swagger);
 4. HTTP method GET/HackerNews -> Try it out -> Execute.
